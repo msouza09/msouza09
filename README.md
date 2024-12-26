@@ -2,7 +2,7 @@
 ## Olá, eu sou o Matheus ✌🏼
 - Estudando Front-End no momento
 
-- [Meu portifólio]([https://mathsouza.com/](https://mathsouza.com/))
+- [Meu portifólio](https://mathsouza.com/)
 
 ## Tecnologias que eu utilizo no meu dia
 ![Msouza GitHub stats](https://github-readme-stats.vercel.app/api?username=msouza09&show_icons=true&theme=tokyonight)
